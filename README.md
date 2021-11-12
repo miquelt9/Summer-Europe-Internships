@@ -1,7 +1,8 @@
 # Summer-Europe-Internships
 Collection of Summer 2022 tech internships  based on Europe
-# Summer 2022 Tech Internships by Miquel 🤿👩‍💻
-Use this repo to share and keep track of software, tech, CS, PM, quant internships for Summer 2022. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/)!
+# Summer 2022 Tech Internships by Miquel 👩‍💻
+This repo was created for easily find software, tech, CS internships for Summer (actually 2022)
+It is actually a Europe version of [Summer2022-Internships](https://github.com/pittcsc/Summer2022-Internships)
 
 :warning: **This repository is only for internships in Europe.**
 
