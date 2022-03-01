@@ -6,6 +6,7 @@ It is actually an Europe version of [Summer2022-Internships](https://github.com/
 We encourage you to also send your CV with a motivation letter to any company you would like to work for
 
 · Please feel free to create a pull request, open an issue or contact me for updating this repo (even if it's just a typo!)
+· You can also contribute by fillinf [this form](https://forms.gle/cTkmbD8ZWS38ZhwF8).
 
 :warning: **This repository is only for internships in Europe.**
 
