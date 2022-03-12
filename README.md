@@ -20,9 +20,10 @@ We encourage you to also send your CV with a motivation letter to any company yo
 | [BSC](https://www.bsc.es/join-us/) | [Barcelona](https://www.bsc.es/join-us/excellence-career-opportunities/bsc-international-summer-hpc-internship-programme) ||
 | [BlackRock](https://careers.blackrock.com/) | [Belgrade/Budapest/Edinburgh/London](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-730d836e367b/candidate/so/pm/1/pl/1/opp/5365-Summer-Analyst-Program-EMEA/en-GB) ||
 | [CERN](https://home.cern/) | [Geneva](https://jobs.smartrecruiters.com/ni/CERN/bb3ce4d8-a9e3-4cac-a3f4-afc1fd4dc727-short-term-internship-2022) | |
+| [Cisco](https://www.cisco.com/c/en/us/about/careers.html)| [Bratislava](https://jobs.cisco.com/jobs/ProjectDetail/Summer-Software-Engineering-Internship-Slido/1367550), [Harpenden](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-First-Years-Micro-Intern/1353228), [London](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2022-London-Internship-Meraki/1364847) ||
 | [Cloudfare](https://www.cloudflare.com/careers/) | No roles available ||
 | [DeepMind](https://deepmind.com/careers) | No roles available | [Internships](https://deepmind.com/careers/internships)|
-| [Factest](https://www.factset.com/careers) | [London](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/London-GBR/Software-Engineering-Intern-London---Summer-2022_R12552?source=Linkedin) ||
+| [Factest](https://www.factset.com/careers) | [London](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/London-GBR/Software-Engineering-Intern-London---Summer-2022_R12552?source=Linkedin) | [Students](https://www.cisco.com/c/en/us/about/careers/communities/students-and-new-graduates/engineering.html)|
 | [Futurice](https://futurice.com/careers) | No roles available ||
 | [Google](https://careers.google.com/) | No roles available | All of them are from the [STEP Program](https://buildyourfuture.withgoogle.com/programs/step/) |
 | [Hyperscience](https://jobs.lever.co/hyperscience) | No roles available ||
@@ -37,6 +38,7 @@ We encourage you to also send your CV with a motivation letter to any company yo
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/) | No roles available | [Summer internships](https://www.optiver.com/internships/)|
 | [Pinterest](https://www.pinterestcareers.com/) | [Dublin](https://www.pinterestcareers.com/job/14097616/) | [Internship/University](https://www.pinterestcareers.com/early-career/internship-university-grad-phd-programs/) |
 | [Qualtrics](https://www.qualtrics.com/careers/us/en) | [Krakow](https://www.qualtrics.com/careers/us/en/job/QUALUS3676396EXTERNALENUS/Software-Engineering-Intern-Summer-2022?utm_source=careerarc&utm_medium=phenom-feeds&gh_src=6b4eb58a1) | |
+| [Salesforce](https://www.salesforce.com/company/careers/) | [Stockholm/Hellerup/Oslo/Espoo](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Sweden---Stockholm/Summer-2022-Intern---Solution-Engineering_JR140590-1) | [Interns](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships) |
 | [Silicon Labs](https://jobs.jobvite.com/silabs/) | [Espoo](https://jobs.jobvite.com/silabs/job/os3qhfwW?__jvst=Job%20Board&__jvsd=LinkedIn) | [University Recruiting](https://jobs.jobvite.com/silabs/jobs/team?c=University%20Recruiting) |
 | [Sky](https://careers.sky.com/)| No roles available | [Summer internships](https://careers.sky.com/earlycareers/summerinternships/)|
 | [TikTok](https://careers.tiktok.com/) | [London](https://careers.tiktok.com/position/7005892948168722701/detail) | [Students&Grads](https://careers.tiktok.com/position?type=3) |
