@@ -16,12 +16,13 @@ We encourage you to also send your CV with a motivation letter to any company yo
 |---|---|-------------|
 | [Aftenposen](https://www.linkedin.com/company/aftenposten/) | No roles available ||
 | [Amazon](https://www.amazon.jobs/) | [Barcelona](https://www.amazon.jobs/es/jobs/1709010/software-development-engineer-internship-2022-barcelona-spain),  [Dresden](https://www.amazon.jobs/es/jobs/1793688/software-development-engineer-internship-2022-dresden-germany), [Tübingen](https://www.amazon.jobs/es/jobs/1793680/software-development-engineer-internship-4-6-months-2022-tubingen-germany), [Luxembourg](https://www.amazon.jobs/es/jobs/1775442/software-development-engineer-internship-2022-luxembourg), [Berlin](https://www.amazon.jobs/es/jobs/1729097/software-development-engineer-intern-2022-berlin), [Madrid](https://www.amazon.jobs/es/jobs/1709009/software-development-engineer-internship-2022-madrid-spain), [Dublin](https://www.amazon.jobs/es/jobs/1694116/software-development-engineer-internship-2022-dublin) | [Amazon jobs for students](https://www.amazon.jobs/es/teams/internships-for-students) |
-| [Arm](https://careers.arm.com/)| No roles available |[Internships](https://careers.arm.com/search-jobs?acm=8097040&alrpm=ALL&ascf=[%7B%22key%22:%22ALL%22,%22value%22:%22%22%7D])|
+| [Arm](https://careers.arm.com/)| [Munich](https://jobs.amd.com/job/Munich-Co-Op-Intern-129002-Bava/824803900/) |[Internships](https://careers.arm.com/search-jobs?acm=8097040&alrpm=ALL&ascf=[%7B%22key%22:%22ALL%22,%22value%22:%22%22%7D])|
 | [BSC](https://www.bsc.es/join-us/) | [Barcelona](https://www.bsc.es/join-us/excellence-career-opportunities/bsc-international-summer-hpc-internship-programme) ||
 | [BlackRock](https://careers.blackrock.com/) | No roles available ||
 | [CERN](https://home.cern/) | [Geneva](https://jobs.smartrecruiters.com/ni/CERN/bb3ce4d8-a9e3-4cac-a3f4-afc1fd4dc727-short-term-internship-2022) | |
 | [Cisco](https://www.cisco.com/c/en/us/about/careers.html)| [Bratislava](https://jobs.cisco.com/jobs/ProjectDetail/Summer-Software-Engineering-Internship-Slido/1367550), [Harpenden](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-First-Years-Micro-Intern/1353228), [London](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2022-London-Internship-Meraki/1364847) ||
 | [Cloudfare](https://www.cloudflare.com/careers/) | No roles available ||
+| [Collibra](https://www.collibra.com/us/en/company/careers) | [Brussels](https://www.collibra.com/us/en/career-indv?gh_jid=3906792&gh_src=8b931d601) ||
 | [DeepMind](https://deepmind.com/careers) | No roles available | [Internships](https://deepmind.com/careers/internships)|
 | [Factest](https://www.factset.com/careers) | [London](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/London-GBR/Software-Engineering-Intern-London---Summer-2022_R12552?source=Linkedin) | [Students](https://www.cisco.com/c/en/us/about/careers/communities/students-and-new-graduates/engineering.html)|
 | [Futurice](https://futurice.com/careers) | No roles available ||
@@ -29,11 +30,13 @@ We encourage you to also send your CV with a motivation letter to any company yo
 | [Hyperscience](https://jobs.lever.co/hyperscience) | No roles available ||
 | [Intel](https://jobs.intel.com/) | No roles available ||
 | [JPMorgan Chase](https://careers.jpmorgan.com/us/en/students/programs) | [Dublin](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210121949/?utm_medium=jobshare), [London/Bournemouth/Glasgow](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210121315/?utm_medium=jobshare)  | [JPMorgan Students](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer#careers-section7) |
+| [Luminor Group](https://luminorbank.teamtailor.com/jobs) | [Tallinn](https://luminorbank.teamtailor.com/jobs/1621403-summer-internship-in-data-analysis-and-data-engineering) ||
 | [Meta](https://www.metacareers.com/jobs) | No roles available ||
 | [Microsoft](https://careers.microsoft.com/us/en) | [Tallinn](https://careers.microsoft.com/students/us/en/job/1091348/Software-engineering-Internship-opportunities-Estonia-Start-date-Summer-2022), [Zürich](https://careers.microsoft.com/us/en/job/1252482/Software-engineering-Internship-opportunities-Switzerland-Start-date-Summer-2022?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed) | [Microsoft Students](https://careers.microsoft.com/students/us/en)|
 | [MongoDB](https://www.mongodb.com/careers) | [Dublin](https://www.mongodb.com/careers/jobs/3713627), [Barcelona](https://www.mongodb.com/careers/jobs/3742777) | [Student Opportunities](https://www.mongodb.com/careers/departments/college-students) |
 | [Nasdaq](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site?source=10129) | No roles available |
 | [National Grid](https://careers.nationalgrid.com/) | No roles available | [National Grid 12-weeks intern](https://careers.nationalgrid.com/new-talent/undergraduates/12-week-summer-internship) - Only UK|
+| [Nexans](https://career.nexans.com/) | [Oslo/Halden](https://career.nexans.com/job/Oslo-Summer-Internship-2022-03-605/743884702/)||
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) | [Finland](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/Finland-Helsinki/System-Software-Intern---Summer-2022_JR1950977-1) ||
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/) | No roles available | [Summer internships](https://www.optiver.com/internships/)|
 | [Pinterest](https://www.pinterestcareers.com/) | [Dublin](https://www.pinterestcareers.com/job/14097616/) | [Internship/University](https://www.pinterestcareers.com/early-career/internship-university-grad-phd-programs/) |
@@ -44,7 +47,7 @@ We encourage you to also send your CV with a motivation letter to any company yo
 | [TikTok](https://careers.tiktok.com/) | No roles avilable | [Students&Grads](https://careers.tiktok.com/position?type=3) |
 | [Toast](https://careers.toasttab.com/) | [Dublin](https://boards.greenhouse.io/embed/job_app?token=3461165&gh_src=dbd19ebc1&s=LinkedIn&source=LinkedIn) ||
 | [The QT Company](https://the-qt-company.breezy.hr/) | [Oulu](https://www.qt.io/open-positions/trainee-1540374916?hsLang=en) ||
-| [Twilio](https://www.twilio.com/company/jobs) | [Tallinn](https://boards.greenhouse.io/twilio/jobs/3786590) | [Students position](https://www.twilio.com/company/jobs?department=students#open-positions) |
+| [Twilio](https://www.twilio.com/company/jobs) | [Malmö](https://boards.greenhouse.io/twilio/jobs/3427068), [Tallinn](https://boards.greenhouse.io/twilio/jobs/3786590) | [Students position](https://www.twilio.com/company/jobs?department=students#open-positions) |
 | [Twitter](https://careers.twitter.com/) | No roles avilable | [Twitter Students](https://careers.twitter.com/en/early-career.html) |
 | [Uber](https://www.uber.com/us/en/careers/) | No roles available ||
 |[Virtu Financial](https://www.virtu.com/careers/) | No roles available ||
