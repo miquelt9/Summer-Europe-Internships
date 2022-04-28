@@ -42,7 +42,7 @@ We encourage you to also send your CV with a motivation letter to any company yo
 | [Pinterest](https://www.pinterestcareers.com/) | No roles available | [Internship/University](https://www.pinterestcareers.com/early-career/internship-university-grad-phd-programs/) |
 | [Qualtrics](https://www.qualtrics.com/careers/us/en) | [Krakow](https://www.qualtrics.com/careers/us/en/job/QUALUS3676396EXTERNALENUS/Software-Engineering-Intern-Summer-2022?utm_source=careerarc&utm_medium=phenom-feeds&gh_src=6b4eb58a1) | |
 | [Salesforce](https://www.salesforce.com/company/careers/) | [Stockholm/Hellerup/Oslo/Espoo](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Sweden---Stockholm/Summer-2022-Intern---Solution-Engineering_JR140590-1) | [Interns](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships) |
-| [Silicon Labs](https://jobs.jobvite.com/silabs/) | [Espoo](https://jobs.jobvite.com/silabs/job/os3qhfwW?__jvst=Job%20Board&__jvsd=LinkedIn) | [University Recruiting](https://jobs.jobvite.com/silabs/jobs/team?c=University%20Recruiting) |
+| [Silicon Labs](https://jobs.jobvite.com/silabs/) | No roles available | [University Recruiting](https://jobs.jobvite.com/silabs/jobs/team?c=University%20Recruiting) |
 | [Sky](https://careers.sky.com/)| No roles available | [Summer internships](https://careers.sky.com/earlycareers/summerinternships/)|
 | [TikTok](https://careers.tiktok.com/) | No roles avilable | [Students&Grads](https://careers.tiktok.com/position?type=3) |
 | [Toast](https://careers.toasttab.com/) | No roles available ||
