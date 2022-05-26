@@ -29,7 +29,7 @@ We encourage you to also send your CV with a motivation letter to any company yo
 | [Google](https://careers.google.com/) | No roles available | All of them are from the [STEP Program](https://buildyourfuture.withgoogle.com/programs/step/) |
 | [Hyperscience](https://jobs.lever.co/hyperscience) | No roles available ||
 | [Intel](https://jobs.intel.com/) | No roles available ||
-| [JPMorgan Chase](https://careers.jpmorgan.com/us/en/students/programs) | [Dublin](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210121949/?utm_medium=jobshare) | [JPMorgan Students](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer#careers-section7) |
+| [JPMorgan Chase](https://careers.jpmorgan.com/us/en/students/programs) | No roles available | [JPMorgan Students](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer#careers-section7) |
 | [Luminor Group](https://luminorbank.teamtailor.com/jobs) | No roles available ||
 | [Meta](https://www.metacareers.com/jobs) | No roles available ||
 | [Microsoft](https://careers.microsoft.com/us/en) | [Tallinn](https://careers.microsoft.com/students/us/en/job/1091348/Software-engineering-Internship-opportunities-Estonia-Start-date-Summer-2022), [Zürich](https://careers.microsoft.com/us/en/job/1252482/Software-engineering-Internship-opportunities-Switzerland-Start-date-Summer-2022?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed) | [Microsoft Students](https://careers.microsoft.com/students/us/en)|
