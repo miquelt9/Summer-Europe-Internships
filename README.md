@@ -16,11 +16,11 @@ We encourage you to also send your CV with a motivation letter to any company yo
 |---|---|-------------|
 | [Aftenposen](https://www.linkedin.com/company/aftenposten/) | No roles available ||
 | [Amazon](https://www.amazon.jobs/) | [Dresden](https://www.amazon.jobs/es/jobs/1793688/software-development-engineer-internship-2022-dresden-germany), [Tübingen](https://www.amazon.jobs/es/jobs/1793680/software-development-engineer-internship-4-6-months-2022-tubingen-germany), [Berlin](https://www.amazon.jobs/es/jobs/1729097/software-development-engineer-intern-2022-berlin), [Dublin](https://www.amazon.jobs/es/jobs/1694116/software-development-engineer-internship-2022-dublin) | [Amazon jobs for students](https://www.amazon.jobs/es/teams/internships-for-students) |
-| [Arm](https://careers.arm.com/)| [Munich](https://jobs.amd.com/job/Munich-Co-Op-Intern-129002-Bava/824803900/) |[Internships](https://careers.arm.com/search-jobs?acm=8097040&alrpm=ALL&ascf=[%7B%22key%22:%22ALL%22,%22value%22:%22%22%7D])|
+| [Arm](https://careers.arm.com/)| No roles available |[Internships](https://careers.arm.com/search-jobs?acm=8097040&alrpm=ALL&ascf=[%7B%22key%22:%22ALL%22,%22value%22:%22%22%7D])|
 | [BSC](https://www.bsc.es/join-us/) | [Barcelona](https://www.bsc.es/join-us/excellence-career-opportunities/bsc-international-summer-hpc-internship-programme) ||
 | [BlackRock](https://careers.blackrock.com/) | No roles available ||
 | [CERN](https://home.cern/) | [Geneva](https://jobs.smartrecruiters.com/ni/CERN/bb3ce4d8-a9e3-4cac-a3f4-afc1fd4dc727-short-term-internship-2022) | |
-| [Cisco](https://www.cisco.com/c/en/us/about/careers.html)| [Harpenden](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-First-Years-Micro-Intern/1353228), [London](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2022-London-Internship-Meraki/1364847) ||
+| [Cisco](https://www.cisco.com/c/en/us/about/careers.html)| [London](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2022-London-Internship-Meraki/1364847) ||
 | [Cloudfare](https://www.cloudflare.com/careers/) | No roles available ||
 | [Collibra](https://www.collibra.com/us/en/company/careers) | [Brussels](https://www.collibra.com/us/en/career-indv?gh_jid=3906792&gh_src=8b931d601) ||
 | [DeepMind](https://deepmind.com/careers) | No roles available | [Internships](https://deepmind.com/careers/internships)|
@@ -37,7 +37,7 @@ We encourage you to also send your CV with a motivation letter to any company yo
 | [Nasdaq](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site?source=10129) | No roles available |
 | [National Grid](https://careers.nationalgrid.com/) | No roles available | [National Grid 12-weeks intern](https://careers.nationalgrid.com/new-talent/undergraduates/12-week-summer-internship) - Only UK|
 | [Nexans](https://career.nexans.com/) | No roles available ||
-| [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) | [Finland](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/Finland-Helsinki/System-Software-Intern---Summer-2022_JR1950977-1) ||
+| [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) | No roles available ||
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/) | No roles available | [Summer internships](https://www.optiver.com/internships/)|
 | [Pinterest](https://www.pinterestcareers.com/) | No roles available | [Internship/University](https://www.pinterestcareers.com/early-career/internship-university-grad-phd-programs/) |
 | [Qualtrics](https://www.qualtrics.com/careers/us/en) | [Krakow](https://www.qualtrics.com/careers/us/en/job/QUALUS3676396EXTERNALENUS/Software-Engineering-Intern-Summer-2022?utm_source=careerarc&utm_medium=phenom-feeds&gh_src=6b4eb58a1) | |
