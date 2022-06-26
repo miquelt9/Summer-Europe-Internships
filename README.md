@@ -1,9 +1,9 @@
-# Summer-Europe-Internships
-Collection of Summer 2022 tech internships  based on Europe
 # Summer 2022 Tech Internships 👩‍💻
-This repo was created for easily find software, tech, CS, internships for Summer (actually 2022)                                                            
-It is actually an Europe version of [Summer2022-Internships](https://github.com/pittcsc/Summer2022-Internships)
-We encourage you to also send your CV with a motivation letter to any company you would like to work for
+Collection of Summer 2023 tech internships  based on Europe.      
+This repo was created for easily find software, tech, CS, internships for Summer (actually 2023)                                                         
+
+It is actually an Europe version of [Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships)
+We encourage you to also send your CV with a motivation letter to any company you would like to work for.
 
 · Please feel free to create a pull request, open an issue or contact me for updating this repo (even if it's just a typo!)                     
 · You can also contribute by fillinf [this form](https://forms.gle/cTkmbD8ZWS38ZhwF8).
@@ -51,3 +51,10 @@ We encourage you to also send your CV with a motivation letter to any company yo
 | [Twitter](https://careers.twitter.com/) | No roles avilable | [Twitter Students](https://careers.twitter.com/en/early-career.html) |
 | [Uber](https://www.uber.com/us/en/careers/) | No roles available ||
 |[Virtu Financial](https://www.virtu.com/careers/) | No roles available ||
+
+## We love our contributors ❤️❤️
+<a href="https://github.com/miquelt9/Summer-Europe-Internships/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=miquelt9/Summer-Europe-Internships&columns=24&max=480" />
+</a>      
+
+*Made with [contrib.rocks](https://contrib.rocks).
