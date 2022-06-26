@@ -1,4 +1,11 @@
 # Summer 2022 Tech Internships 👩‍💻
+[![HitCount](https://hits.dwyl.com/miquelt9/miquelt9.svg?style=flat-square&show=unique)](http://hits.dwyl.com/miquelt9/Summer-Europe-Internships)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/miquelt9/Summer-Europe-Internships)
+[![GitHub stars](https://img.shields.io/github/stars/miquelt9/Summer-Europe-Internships.svg)](https://GitHub.com/miquelt9/Summer-Europe-Internships/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/miquelt9/Summer-Europe-Internships.svg)](https://GitHub.com/miquelt9/Summer-Europe-Internships/network/)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/miquelt9/Summer-Europe-Internships.svg)](https://github.com/miquelt9/Summer-Europe-Internships)
+[![GitHub contributors](https://img.shields.io/github/contributors/miquelt9/Summer-Europe-Internships.svg)](https://GitHub.com/miquelt9/Summer-Europe-Internships/graphs/contributors/)
+
 Collection of Summer 2023 tech internships  based on Europe.      
 This repo was created for easily find software, tech, CS, internships for Summer (actually 2023)                                                         
 
