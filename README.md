@@ -21,12 +21,11 @@ We encourage you to also send your CV with a motivation letter to any company yo
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-| [Aftenposen](https://www.linkedin.com/company/aftenposten/) | No roles available ||
-| [Amazon](https://www.amazon.jobs/) | [~~Dresden~~](https://www.amazon.jobs/es/jobs/1793688/software-development-engineer-internship-2022-dresden-germany), [~~Tübingen~~](https://www.amazon.jobs/es/jobs/1793680/software-development-engineer-internship-4-6-months-2022-tubingen-germany), [~~Berlin~~](https://www.amazon.jobs/es/jobs/1729097/software-development-engineer-intern-2022-berlin), [~~Dublin~~](https://www.amazon.jobs/es/jobs/1694116/software-development-engineer-internship-2022-dublin) | [Amazon jobs for students](https://www.amazon.jobs/es/teams/internships-for-students) |
+| [Amazon](https://www.amazon.jobs/) | [Cagliari](https://www.amazon.jobs/en/jobs/2208430/2023-software-development-engineer-internship), [Luxemburg](https://www.amazon.jobs/en/jobs/2206316/2023-software-development-engineer-internship) , [Madrid](https://www.amazon.jobs/en/jobs/2206047/2023-software-development-engineer-internship), [Paris](https://www.amazon.jobs/en/jobs/2206003/2023-software-development-engineer-internship-h-f), [Berlin](https://www.amazon.jobs/en/jobs/2205822/2023-software-development-engineer-internship), [Dublin](https://www.amazon.jobs/en/jobs/2204369/2023-front-end-engineer-intern) | [Amazon jobs for students](https://www.amazon.jobs/es/teams/internships-for-students) |
 | [Arm](https://careers.arm.com/)| No roles available |[Internships](https://careers.arm.com/search-jobs?acm=8097040&alrpm=ALL&ascf=[%7B%22key%22:%22ALL%22,%22value%22:%22%22%7D])|
-| [BSC](https://www.bsc.es/join-us/) | [~~Barcelona~~](https://www.bsc.es/join-us/excellence-career-opportunities/bsc-international-summer-hpc-internship-programme) ||
+| [BSC](https://www.bsc.es/join-us/) | [Barcelona](https://www.bsc.es/join-us/excellence-career-opportunities/bsc-international-summer-hpc-internship-programme) ||
 | [BlackRock](https://careers.blackrock.com/) | No roles available ||
-| [CERN](https://home.cern/) | [~~Geneva~~](https://jobs.smartrecruiters.com/ni/CERN/bb3ce4d8-a9e3-4cac-a3f4-afc1fd4dc727-short-term-internship-2022) | |
+| [CERN](https://careers.cern/) | [Geneve](https://careers.cern/summer) | [Students](https://careers.smartrecruiters.com/CERN/students) - Application will be opened in november |
 | [Cisco](https://www.cisco.com/c/en/us/about/careers.html)| [~~London~~](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2022-London-Internship-Meraki/1364847) ||
 | [Cloudfare](https://www.cloudflare.com/careers/) | No roles available ||
 | [Collibra](https://www.collibra.com/us/en/company/careers) | No roles available ||
