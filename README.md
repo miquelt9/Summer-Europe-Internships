@@ -37,6 +37,7 @@ We encourage you to also send your CV with a motivation letter to any company yo
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) | No roles available ||
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/) | No roles available | [Summer internships](https://www.optiver.com/internships/)|
 | [Pinterest](https://www.pinterestcareers.com/) | No roles available | [Internship/University](https://www.pinterestcareers.com/early-career/internship-university-grad-phd-programs/) |
+| [Qualcomm](https://www.qualcomm.com/company/careers) | [Cambridge](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Cambridge-GBR/Intern-engineer--Test-Development--Cambridge_3043919) | [Interns](https://qualcomm.wd5.myworkdayjobs.com/External?workerSubType=c6ccad57afa3017beba88a96f4007c06)
 | [Qualtrics](https://www.qualtrics.com/careers/us/en) | [Dublin](https://www.qualtrics.com/careers/us/en/job/4581171/2023-Engineering-Internship-Dublin) | |
 | [Salesforce](https://www.salesforce.com/company/careers/) | No roles available | [Interns](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships) |
 | [TikTok](https://careers.tiktok.com/) | [London](https://careers.tiktok.com/position/7140276012004542750/detail), [Warsaw](https://careers.tiktok.com/position/7139820786924030244/detail), [London](https://careers.tiktok.com/position/7138413101808486693/detail), [Dublin](https://careers.tiktok.com/position/7140276797581674765/detail) | [Students&Grads](https://careers.tiktok.com/position?type=3) |
