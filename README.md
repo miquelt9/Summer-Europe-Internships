@@ -26,13 +26,14 @@ We encourage you to also send your CV with a motivation letter to any company yo
 | [BSC](https://www.bsc.es/join-us/) | [Barcelona](https://www.bsc.es/join-us/excellence-career-opportunities/bsc-international-summer-hpc-internship-programme) ||
 | [BlackRock](https://careers.blackrock.com/) | No roles available ||
 | [CERN](https://careers.cern/) | [Geneve](https://careers.cern/summer) | [Students](https://careers.smartrecruiters.com/CERN/students) - Application will be opened in november |
-| [Cisco](https://www.cisco.com/c/en/us/about/careers.html)| [~~London~~](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2022-London-Internship-Meraki/1364847) ||
+| [Cisco](https://www.cisco.com/c/en/us/about/careers.html)| [Lysaker](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineering-Summer-Internship/1387077), [London](https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Summer-2023-London-Meraki/1385167), [Bratislava](https://jobs.cisco.com/jobs/ProjectDetail/Software-Data-Engineer-Internship-Slido/1384614), [Eschborn](https://jobs.cisco.com/jobs/ProjectDetail/Internship-Cyber-Security-Bachelor-Master-Germany/1386196) ||
 | [Cloudfare](https://www.cloudflare.com/careers/) | No roles available ||
 | [Collibra](https://www.collibra.com/us/en/company/careers) | No roles available ||
 | [DeepMind](https://deepmind.com/careers) | No roles available | [Internships](https://deepmind.com/careers/internships)|
-| [Factest](https://www.factset.com/careers) | No roles available | [Students](https://www.cisco.com/c/en/us/about/careers/communities/students-and-new-graduates/engineering.html)|
+| [Factest](https://www.factset.com/careers) | No roles available | |
 | [Futurice](https://futurice.com/careers) | No roles available ||
-| [Google](https://careers.google.com/) | No roles available | All of them are from the [STEP Program](https://buildyourfuture.withgoogle.com/programs/step/) |
+| [Google](https://careers.google.com/) | [STEP - Dublin/London](https://careers.google.com/jobs/results/117877745121141446/), [STEP - Zürich](https://careers.google.com/jobs/results/106502335259124422/), [STEP - Munich](https://careers.google.com/jobs/results/100509859448791750/), [STEP - Bucharest/Paris/Warsaw](https://careers.google.com/jobs/results/84503718927442630/), [Zürich](https://careers.google.com/jobs/results/131657924352058054/), [London/Dublin](https://careers.google.com/jobs/results/143356178315780806/), [Stockholm/Paris/Budapest](https://careers.google.com/jobs/results/124285698887819974/), [Munich](https://careers.google.com/jobs/results/120298869725504198/), [Aarhus/Málaga](https://careers.google.com/jobs/results/83280649680495302/), [Warsaw](https://careers.google.com/jobs/results/83576580980253382/) | The ones tagged with STEP are intendeed for 1st and 2nd Bachelor year students, the other for 3rd and 4th year |
+
 | [Hyperscience](https://jobs.lever.co/hyperscience) | No roles available ||
 | [Intel](https://jobs.intel.com/) | No roles available ||
 | [JPMorgan Chase](https://careers.jpmorgan.com/us/en/students/programs) | No roles available | [JPMorgan Students](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer#careers-section7) |
