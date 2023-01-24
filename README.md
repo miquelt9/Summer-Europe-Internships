@@ -1,5 +1,4 @@
 # Summer 2023 Tech Internships 👩‍💻
-[![HitCount](https://hits.dwyl.com/miquelt9/miquelt9.svg?style=flat-square&show=unique)](http://hits.dwyl.com/miquelt9/Summer-Europe-Internships)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&show=unique)](/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/miquelt9/Summer-Europe-Internships.svg)](https://GitHub.com/miquelt9/Summer-Europe-Internships/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/miquelt9/Summer-Europe-Internships.svg)](https://GitHub.com/miquelt9/Summer-Europe-Internships/network/)
