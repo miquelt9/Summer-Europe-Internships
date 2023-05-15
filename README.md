@@ -40,7 +40,7 @@ We encourage you to also send your CV with a motivation letter to any company yo
 | [Microsoft](https://careers.microsoft.com/us/en) | No roles available | [Microsoft Students](https://careers.microsoft.com/students/us/en)|
 | [MongoDB](https://www.mongodb.com/careers) | No roles available | [Student Opportunities](https://www.mongodb.com/careers/departments/college-students) |
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) | No roles available | [Search link](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba&locationHierarchy1=2fcb99c455831013ea52d8783aa0329c&locationHierarchy1=2fcb99c455831013ea52d0e0e4583290&locationHierarchy1=2fcb99c455831013ea52adc65f5d3254&locationHierarchy1=d21cf68980ad0121a67d319db107a200&locationHierarchy1=2fcb99c455831013ea52aa2df70e324e) |
-| [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/) | No roles available | [Summer internships](https://www.optiver.com/internships/)|
+| [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/) | [Sydney](https://optiver.com/working-at-optiver/career-opportunities/6597747002/) | [Summer internships](https://www.optiver.com/internships/)|
 | [Pinterest](https://www.pinterestcareers.com/) | No roles available | [Internship/University](https://www.pinterestcareers.com/early-career/internship-university-grad-phd-programs/) |
 | [Qualcomm](https://www.qualcomm.com/company/careers) | No roles available | [Interns](https://qualcomm.wd5.myworkdayjobs.com/External?workerSubType=c6ccad57afa3017beba88a96f4007c06)
 | [Qualtrics](https://www.qualtrics.com/careers/us/en) | No roles available | |
